@@ -60,3 +60,19 @@ console.log(value)
 let result = null
 result = { id: 1, name: 'Ali' };
 console.log(result)
+
+interface Person {
+    firstName: string,
+    lastName: string,
+    email: string,
+    age: number
+}
+
+const Customer: Person = {
+    firstName: 'Haidar',
+    lastName: 'Malik',
+    email: 'haid23@gmail.com',
+    age: 20
+}
+
+console.log(Customer)
