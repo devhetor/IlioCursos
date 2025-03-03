@@ -1,0 +1,54 @@
+{
+  "movies": [
+    {
+      "title": "Once Upon A Time...In Hollywood sd",
+      "url": "https://youtu.be/Q9uat3ticA8",
+      "rating": "5",
+      "id": 5
+    },
+    {
+      "title": "Citizen Kane",
+      "url": "https://www.imdb.com/title/tt0033467/",
+      "rating": 0,
+      "id": 7
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "url": "https://www.imdb.com/title/tt1392190/",
+      "rating": "5",
+      "id": 8
+    }
+  ],
+  "songs": [
+    {
+      "title": "Love the way you lie updated doo",
+      "url": "https://www.imdb.com/title/tt1392190/",
+      "rating": "53",
+      "id": 8
+    },
+    {
+      "title": "Faded New songs",
+      "url": "https://vimeo.com/379178741",
+      "rating": "6",
+      "id": 9
+    },
+    {
+      "title": "Animals",
+      "url": "https://vimeo.com/379178741",
+      "rating": "6",
+      "id": 10
+    },
+    {
+      "title": "Firestone",
+      "url": "https://vimeo.com/379178741",
+      "rating": "2",
+      "id": 11
+    },
+    {
+      "title": "A new Song upaded",
+      "url": "https://vimeo.com/379178741",
+      "rating": "4",
+      "id": 12
+    }
+  ]
+}
